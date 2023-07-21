@@ -1,11 +1,24 @@
-# PF - Introduction
 
- This is a simple and static "Portfolio Website" built using HTML, CSS, and JavaScript.
- Note :- The inspiration has been taken from the YouTube Tutorials on Portfolioi Website.
+# Portfolio Website - PF
+This is a simple and static "Portfolio Website" built using HTML, CSS, and JavaScript.
 
- # clone this repo
+Note :- The inspiration has been taken from the YouTube Tutorials on Portfolioi Website.
 
- Step 1: Click on code button and copy the HTTPS.
- Step 2: Open your termial in your laptop.
- Step 3: Write $ git clone <(HTTPS)>
 
+
+
+## Installation
+
+Step 1:
+
+```
+ Go to CODE and copy the "HTTPS"
+```
+Step 2:
+```
+Open the termial 
+```
+Step 3:
+```
+Paste $ git clone <HTTPS URL>
+```    
