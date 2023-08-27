@@ -4,7 +4,6 @@ This is a simple and static "Portfolio Website" built using HTML, CSS, and JavaS
 
 Note :- The inspiration has been taken from the YouTube Tutorials on Portfolioi Website.
 
-.
 
 
 ## Installation
